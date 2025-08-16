@@ -118,6 +118,9 @@ O QR Code será criado em formato **PNG** com dimensões de **200x200**.
 
 <img width="1782" height="158" alt="image" src="https://github.com/user-attachments/assets/de65fba7-1baf-48bd-87d2-7dfe6265ee3e" />
 
+<img width="1484" height="720" alt="image" src="https://github.com/user-attachments/assets/ba0ebaee-10d0-4f58-a28a-bca9565580a7" />
+
+
 #### Success Response
 
 ```json
