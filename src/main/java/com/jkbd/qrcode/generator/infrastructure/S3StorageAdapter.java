@@ -17,7 +17,7 @@ public class S3StorageAdapter implements StoragePort {
 
     private final String region;
 
-    public S3StorageAdapter(@Value("${aws.region}") String region,
+    public S3StorageAdapter(@Value("${aws.s3.region}") String region,
                             @Value("${aws.s3.bucket-name}") String bucketName) {
         this.bucketName = bucketName;
         this.region = region;
